@@ -1,6 +1,6 @@
 # kubectl-low-evict-pod
   
-  This tool is used for all versions of kubernetes to evict pod, especially for low versions of kubernetes that do not support evict interface. 
+  This tool is used for all versions of kubernetes to evict pod, especially that do not successfully evict fron its node. 
   
   ## Build
 
